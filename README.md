@@ -1,5 +1,12 @@
 # Angry Animals
 
+
+<img width="1153" height="647" alt="Captura de tela 2025-09-27 183648" src="https://github.com/user-attachments/assets/d83756f9-b384-458d-96c1-749c5143c4b5" />
+<img width="1151" height="646" alt="Captura de tela 2025-09-27 183822" src="https://github.com/user-attachments/assets/ac157554-0980-46d0-840b-8d65f74cc603" />
+<img width="1150" height="643" alt="Captura de tela 2025-09-27 183751" src="https://github.com/user-attachments/assets/4241126e-187d-43fc-ac7d-ee84d9fd9862" />
+<img width="1154" height="648" alt="Captura de tela 2025-09-27 183707" src="https://github.com/user-attachments/assets/335cceeb-fa4a-4fbe-b634-c2ccbae367eb" />
+
+
 **Angry Animals** is a physics-based game inspired by *Angry Birds*, developed in **Godot 4 with C#**.  
 It started as a learning project, but you can now play it yourself!  
 ---
