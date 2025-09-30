@@ -44,8 +44,8 @@ The premise is simple: Destroy all the *Cups*, with the **least amount of attemp
 
 ## Download
 
-[Windows](sha256:191c397224d0cabd942a2dceeb33bc7e2af1a311f5ce469b232227f690c23f4d)
-[Linux](sha256:a887a0df3314c05226487dda2aa3950408f530cee51df17fca54f3b4f57df9d5)
+[Linux](https://github.com/alissonbls14/Angry-Animals/releases/download/v1.0.0/Linux.zip)
+[Windows](https://github.com/alissonbls14/Angry-Animals/releases/download/v1.0.0/Windows.zip)
 
 ---
 
